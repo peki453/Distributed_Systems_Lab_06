@@ -1,6 +1,8 @@
 # DS Lab 6 (Client)
 # Student: Marko Pezer
 
+# CLIENT
+
 # Import libraries
 import sys
 import socket
